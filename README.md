@@ -10,7 +10,7 @@ Flask offers suggestions, but doesn't enforce any dependencies or
 project layout. It is up to the developer to choose the tools and
 libraries they want to use. There are many extensions provided by the
 community that make adding new functionality easy.
-
+# I have fixed this bug
 [WSGI]: https://wsgi.readthedocs.io/
 [Werkzeug]: https://werkzeug.palletsprojects.com/
 [Jinja]: https://jinja.palletsprojects.com/
